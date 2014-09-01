@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Alexander Selivanov"]
   s.email       = ["selivandex@gmail.com"]
   s.homepage    = "http://github.com/softeamco/rails_admin_void"
-  s.summary     = "For active merchant void action."
-  s.description = "TODO: Description of RailsAdminVoid."
+  s.summary     = "Void rails admin action."
+  s.description = "For active merchant void action."
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
 
