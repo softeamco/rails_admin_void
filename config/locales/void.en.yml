@@ -1,0 +1,11 @@
+
+en:
+  admin:
+    actions:
+      void:
+        title: "Void"
+        menu: "Void for %{model_label} '%{object_label}'"
+        breadcrumb: "Void"
+        link: "Void"
+        bulk_link: "Void selected %{model_label_plural}"
+        done: "Voided"
